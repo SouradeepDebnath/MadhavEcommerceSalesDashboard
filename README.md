@@ -1,2 +1,2 @@
 # MadhavEcommerceSalesDashboard
-Analyzed an Ecommerce Sales data and created a interactive dashboard to track the online sales data using PowerBi.
+I analyzed e-commerce sales data and created an interactive dashboard to track the online sales data using PowerBI.
